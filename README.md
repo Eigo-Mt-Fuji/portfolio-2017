@@ -15,10 +15,10 @@
 
 ```mermaid
 gantt
-    title これまでの経歴(時系列整理)
+    title これまでの経歴(実務経験12year)
     dateFormat YYYY-MM-DD
     section LOOPASS365
-    section 大学時代(CS)
+    section 大学時代(CS)<4year>
     ソフトウェア工学専攻  :a1,2006-04-01, 2010-03-31
     ゲーム開発サークル  :a2,2007-04-01, 2010-03-31
     卒業研究  :a3,2008-10-01, 2010-03-31
