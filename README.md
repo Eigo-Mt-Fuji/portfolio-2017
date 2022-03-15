@@ -2,40 +2,52 @@
 
 ----
 
-## はじめまして
+## 目次
 
+- [はじめまして](#はじめまして)
+- [スキルシート](#スキルシート)
+- [経歴(時系列チャート)](#経歴時系列チャート)
+- [どのようなポジションを目指すかの検討](#どのようなポジションを目指すかの検討)
 
 ## 自己紹介
 
-- アクセスいただきありがとうございます。藤川と申します。
+- はじめまして。
 
+- 藤川です。
 - 個人事業でITエンジニアをやっています
-  - 大学はソフトウェア工学、ストレートに入学・卒業
+  - 大学は４年間 `ソフトウェア工学専攻` （ストレートに入学・卒業）
   - 東京でIT系企業に就職。
-  - 実務経験は今年で12年目
+  - 社会人歴、IT系 `実務経験` ともに今年で `12年目` です
+- 最近やっていた開発(案件)は?
+  - LINEのサービス開発です
+    - Backend: PHP Laravel7, 8
+    - Frontend: React
+    - Infra: AWS API Gateway/ Serverless / Event Bridge / Aurora Serverless / DynamoDB / SQS
+- 過去に参画した個別の案件は?
+  - 後に出てくるスキルシートを参照くださいm(_ _)m
+    - 同じく後述の時系列チャートと合わせると、役割が少しわかりやすいしれません(伝わらなかったらごめんなさい..)
+  - 色々やっているな、という印象を持たれると思います
+    - 実際背伸びしてやっていました.. 
+  - ２０１５年頃にWeb系の業界に転向し、それ以来７年間は、一貫してAWS系の案件に関わっています。
 
-- 過去に参画した個別の案件は、スキルシートを参照ください。
-  - ２０１５年頃にWeb系の業界に転向して以来は、AWS系の案件に関わる
-  - 色々やっているな、という印象を持たれると思います(実際背伸びしてやっていました.. )
-  - 最後にやっていた開発案件は?
-    - LINEのサービス開発
-      - Backend: PHP Laravel7, 8
-      - Frontend: React
-      - Infra: AWS API Gateway/ Serverless / Event Bridge / Aurora Serverless / DynamoDB / SQS
+- 次の案件でやりたいこと(現在やりたいこと)
+  - フルスタックエンジニア
+  - フロントも含めて(できれば新規の)開発に関われる案件を探しています
+  - できればTypescript(Javascript)が使いたいです
 
-- 今やりたいこと
-    - フルスタックで、フロントも含めて(できれば新規の)開発に関われる案件を探しています
-- 余談
-    - 今興味があるのは何?
-      - Typescript/Javascript
+- 以上ですm(_ _)m
+
+- 補足情報・余談
+  - 今興味があるのは..?
+    - Typescript/Javascript関連
         - NestJs https://nestjs.com/
         - Remix https://remix.run/
         - React https://reactjs.org/
           - ロジックの分離と再利用性の向上 したい
-      - ITリテラシーを持続的に向上する
+    - ITリテラシーを持続的に向上する(DDDとかちゃんと勉強したい)
         - https://github.com/Eigo-Mt-Fuji/portfolio-2022/blob/main/docs/README-%E6%95%99%E9%A4%8A-%E5%BA%A7%E5%AD%A6-%E5%AE%9F%E7%94%A8IT%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC.md
-      - Blockchain使いたい (LINEブロックチェーンで遊ぶ)
-        - https://github.com/Eigo-Mt-Fuji/portfolio-2022/blob/main/docs/README-%E7%89%B9%E8%A8%AD%E3%83%BBLINE%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3.md
+        - Blockchain使いたい (LINEブロックチェーンで遊ぶ)
+            - https://github.com/Eigo-Mt-Fuji/portfolio-2022/blob/main/docs/README-%E7%89%B9%E8%A8%AD%E3%83%BBLINE%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3.md
 
 ## [スキルシート](./e-fujikawa-engineer.pdf)
 
