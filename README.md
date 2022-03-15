@@ -53,6 +53,8 @@
 
 ## スキルシート
 
+`※要請いただいた方に直接お渡ししています(2022年3月現在)`
+
 - [Download e-fujikawa-engineer.pdf](https://github.com/Eigo-Mt-Fuji/efg-confidential/blob/main/skillsheet/e-fujikawa-engineer.pdf)
 
 ## 経歴(時系列チャート)
@@ -68,6 +70,7 @@
         - つぎにPHP Laravel, Pythonが候補
         - C# / Javaは過去の案件で経験がありますが、基本的にお引き受けしない
 - 続きはこちら
+    - `※要請いただいた方に直接お伝えしています(2022年3月現在)`
     - https://github.com/Eigo-Mt-Fuji/efg-confidential/issues/7
 
 ## おまけ
