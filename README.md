@@ -55,7 +55,7 @@
 
 `※要請いただいた方に直接お渡ししています(2022年3月現在)`
 
-- [Download e-fujikawa-engineer.pdf](https://github.com/Eigo-Mt-Fuji/efg-confidential/blob/main/skillsheet/e-fujikawa-engineer.pdf)
+- [Download](https://github.com/Eigo-Mt-Fuji/efg-confidential/blob/main/skillsheet/e-fujikawa-engineer.pdf)
 
 ## 経歴(時系列チャート)
 
