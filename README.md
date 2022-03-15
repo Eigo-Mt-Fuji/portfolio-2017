@@ -20,10 +20,15 @@
   - 東京でIT系企業に就職。
   - 社会人歴、IT系 `実務経験` ともに今年で `12年目` です
 - 最近やっていた開発(案件)は?
-  - LINEのサービス開発です
+  - LINEのAPHを使ったサービス・システム開発です
     - Backend: PHP Laravel7, 8
     - Frontend: React
-    - Infra: AWS API Gateway/ Serverless / Event Bridge / Aurora Serverless / DynamoDB / SQS
+    - Infra: 
+       - AWS 
+           - API Gateway/ Serverless / Event Bridge / Aurora Serverless / DynamoDB / SQS 
+           - ECS
+       - Dncker
+       - Terraform
 - 過去に参画した個別の案件は?
   - 後に出てくるスキルシートを参照くださいm(_ _)m
     - 同じく後述の時系列チャートと合わせると、役割が少しわかりやすいしれません(伝わらなかったらごめんなさい..)
