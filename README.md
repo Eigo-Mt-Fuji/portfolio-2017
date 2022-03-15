@@ -35,8 +35,8 @@
             - https://github.com/Eigo-Mt-Fuji/portfolio-2022/blob/main/docs/README-%E6%95%99%E9%A4%8A-%E5%BA%A7%E5%AD%A6-%E5%AE%9F%E7%94%A8IT%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC.md
 
         - Blockchain使いたい (LINEブロックチェーンで遊ぶ)
-
-    　　　　      - https://github.com/Eigo-Mt-Fuji/portfolio-2022/blob/main/docs/README-%E7%89%B9%E8%A8%AD%E3%83%BBLINE%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3.md
+    　　　　        
+            - https://github.com/Eigo-Mt-Fuji/portfolio-2022/blob/main/docs/README-%E7%89%B9%E8%A8%AD%E3%83%BBLINE%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3.md
 
 - 今は、フルスタックで、フロントも含めて(できれば新規の)開発に関われる案件を探しています
 
