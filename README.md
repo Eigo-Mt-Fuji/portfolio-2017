@@ -49,7 +49,9 @@
         - Blockchain使いたい (LINEブロックチェーンで遊ぶ)
             - https://github.com/Eigo-Mt-Fuji/portfolio-2022/blob/main/docs/README-%E7%89%B9%E8%A8%AD%E3%83%BBLINE%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3.md
 
-## [スキルシート](./e-fujikawa-engineer.pdf)
+## スキルシート
+
+- [Download e-fujikawa-engineer.pdf](./e-fujikawa-engineer.pdf)
 
 ## 経歴(時系列チャート)
 
