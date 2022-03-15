@@ -44,7 +44,7 @@
           - ロジックの分離と再利用性の向上 したい
     - ITリテラシーを持続的に向上する(DDDとかちゃんと勉強したい)
     - Blockchain使いたい (LINEブロックチェーンで遊ぶ)
-       - https://github.com/Eigo-Mt-Fuji/portfolio-2022/blob/main/docs/README-%E7%89%B9%E8%A8%AD%E3%83%BBLINE%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3.md
+       - [portfolio-2022 LINEブロックチェーン学習・検証のきろく](https://github.com/Eigo-Mt-Fuji/portfolio-2022/blob/main/docs/README-%E7%89%B9%E8%A8%AD%E3%83%BBLINE%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3.md)
 
 ## スキルシート
 
