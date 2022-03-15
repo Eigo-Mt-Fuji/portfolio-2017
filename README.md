@@ -51,7 +51,7 @@
 
 ## スキルシート
 
-- [Download e-fujikawa-engineer.pdf](./e-fujikawa-engineer.pdf)
+- [Download e-fujikawa-engineer.pdf](https://github.com/Eigo-Mt-Fuji/efg-confidential/blob/main/skillsheet/e-fujikawa-engineer.pdf)
 
 ## 経歴(時系列チャート)
 
