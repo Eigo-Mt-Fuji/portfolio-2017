@@ -20,7 +20,7 @@
   - 東京でIT系企業に就職。
   - 社会人歴、IT系 `実務経験` ともに今年で `12年目` です
 - 最近やっていた開発(案件)は?
-  - LINEのAPHを使ったサービス・システム開発です
+  - LINEのAPIを使ったサービス・システム開発です
     - Backend: PHP Laravel7, 8
     - Frontend: React
     - Infra: 
