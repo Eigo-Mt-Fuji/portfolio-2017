@@ -85,6 +85,6 @@
 
 |タイトル|スライド|
 |:----:|:----:|
-| どんな唐突な話題も絶対自然に切り出せる必殺のフレームワーク「アバンストラッシュ」| [スライド#1 - abanstrash.pdf](./abanstrash.pdf) |
-| おしごとをドラクエのじゅもんに例えてみた | [スライド#2 - dq-spell.pdf](./dq-spell.pdf) |
-| ドラクエの冒険の書ライクな軽量日報フォーマット。日々のタスク切換えもこれで安心！ | [スライド#3 - oinori.pdf](./oinori.pdf) |
+| どんな唐突な話題も絶対自然に切り出せる必殺のフレームワーク「アバンストラッシュ」| [Download PDF](./abanstrash.pdf?raw=true) |
+| おしごとをドラクエのじゅもんに例えてみた | [Download PDF](./dq-spell.pdf?raw=true) |
+| ドラクエの冒険の書ライクな軽量日報フォーマット。日々のタスク切換えもこれで安心！ | [Download PDF](./oinori.pdf?raw=true) |
