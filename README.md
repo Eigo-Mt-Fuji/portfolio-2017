@@ -27,7 +27,7 @@
        - AWS 
            - API Gateway/ Serverless / Event Bridge / Aurora Serverless / DynamoDB / SQS 
            - ECS
-       - Dncker
+       - Docker
        - Terraform
 - 過去に参画した個別の案件は?
   - 後に出てくるスキルシートを参照くださいm(_ _)m
