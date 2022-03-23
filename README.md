@@ -88,3 +88,8 @@
 | 2021-11-30 おしごとをドラクエのじゅもんに例えてみた | [Download PDF](./dq-spell.pdf?raw=true) |
 | 2022-03-05 どんな唐突な話題も絶対自然に切り出せる必殺のフレームワーク「アバンストラッシュ」| [Download PDF](./abanstrash.pdf?raw=true) |
 | 2022-03-19 ドラクエの冒険の書ライクな軽量日報フォーマット。日々のタスク切換えもこれで安心！ | [Download PDF](./oinori.pdf?raw=true) |
+
+- 大好き?な歴史上の人物2名について、noteの記事をあげておきました。
+- こういう人物に興味を持つタイプです。時間と心にゆとりがある時にお読みくださいm(_ _)m
+  - 徳川家康 https://note.com/efujikawa/n/ned0d25556ef6?magazine_key=mc78cb16e633c
+  - 半兵衛(竹中重治) https://note.com/efujikawa/n/ne320a0e67e90?magazine_key=mc78cb16e633c
