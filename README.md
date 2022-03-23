@@ -91,5 +91,5 @@
 
 - 大好き?な歴史上の人物2名について、noteの記事をあげておきました。
 - こういう人物に興味を持つタイプです。時間と心にゆとりがある時にお読みくださいm(_ _)m
-  - [note - 家康について理解したい | いんぐー](https://note.com/efujikawa/n/ned0d25556ef6?magazine_key=mc78cb16e633c)
-  - [note - 半兵衛(竹中重治)について理解したい | いんぐー](https://note.com/efujikawa/n/ne320a0e67e90?magazine_key=mc78cb16e633c)
+  - [note - 家康について理解したい ｜ いんぐー](https://note.com/efujikawa/n/ned0d25556ef6?magazine_key=mc78cb16e633c)
+  - [note - 半兵衛(竹中重治)について理解したい ｜ いんぐー](https://note.com/efujikawa/n/ne320a0e67e90?magazine_key=mc78cb16e633c)
