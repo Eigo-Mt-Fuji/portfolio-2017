@@ -27,7 +27,7 @@
        - AWS 
            - API Gateway/ Serverless / Event Bridge / Aurora Serverless / DynamoDB / SQS 
            - ECS
-       - Dncker
+       - Docker
        - Terraform
 - 過去に参画した個別の案件は?
   - 後に出てくるスキルシートを参照くださいm(_ _)m
@@ -80,12 +80,18 @@
 
 ## おまけ
 
+- 大好き?な歴史上の人物2名について、noteの記事をあげておきました。
+- こういう人物に興味を持つタイプです。
+  - [note - 家康について理解したい ｜ いんぐー](https://note.com/efujikawa/n/ned0d25556ef6?magazine_key=mc78cb16e633c)
+  - [note - 半兵衛(竹中重治)について理解したい ｜ いんぐー](https://note.com/efujikawa/n/ne320a0e67e90?magazine_key=mc78cb16e633c)
+
 - ドラクエが大好きなので、ドラクエ x エンジニアにまつわるスライドを不定期であげていきます
 - 時間と心にゆとりがある時にお読みくださいm(_ _)m
 
 |タイトル|スライド|
-|:----:|:----:|
-| どんな唐突な話題も絶対自然に切り出せる必殺のフレームワーク「アバンストラッシュ」| [Download PDF](./abanstrash.pdf?raw=true) |
-| おしごとをドラクエのじゅもんに例えてみた | [Download PDF](./dq-spell.pdf?raw=true) |
-| ドラクエの冒険の書ライクな軽量日報フォーマット。日々のタスク切換えもこれで安心！ | [Download PDF](./oinori.pdf?raw=true) |
-| ドラクエのあらすじ機能をおしごとに適用してみたらどうなった? | [Download PDF](./arasuji.pdf?raw=true) |
+|:----|:----:|
+| 2021-11-30 おしごとをドラクエのじゅもんに例えてみた | [Download PDF](./dq-spell.pdf?raw=true) |
+| 2022-03-05 どんな唐突な話題も絶対自然に切り出せる必殺のフレームワーク「アバンストラッシュ」| [Download PDF](./abanstrash.pdf?raw=true) |
+| 2022-03-19 ドラクエの冒険の書ライクな軽量日報フォーマット。日々のタスク切換えもこれで安心！ | [Download PDF](./oinori.pdf?raw=true) |
+| 2022-04-15 ドラクエのあらすじ機能をおしごとに適用してみたらどうなった? | [Download PDF](./arasuji.pdf?raw=true) |
+
