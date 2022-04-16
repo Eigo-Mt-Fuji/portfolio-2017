@@ -88,3 +88,4 @@
 | どんな唐突な話題も絶対自然に切り出せる必殺のフレームワーク「アバンストラッシュ」| [Download PDF](./abanstrash.pdf?raw=true) |
 | おしごとをドラクエのじゅもんに例えてみた | [Download PDF](./dq-spell.pdf?raw=true) |
 | ドラクエの冒険の書ライクな軽量日報フォーマット。日々のタスク切換えもこれで安心！ | [Download PDF](./oinori.pdf?raw=true) |
+| ドラクエのあらすじ機能をおしごとに適用してみたらどうなった? | [Download PDF](./arasuji.pdf?raw=true) |
