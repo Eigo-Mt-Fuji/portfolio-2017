@@ -6,9 +6,8 @@
 ## 目次
 
 - [自己紹介](#自己紹介)
-- [スキルシート](#スキルシート)
 - [経歴(時系列チャート)](#経歴時系列チャート)
-- [どのようなポジションを目指すかの検討](#どのようなポジションを目指すかの検討)
+- [スキルシート](#スキルシート)
 - [おまけ](#おまけ)
 
 ## 自己紹介
@@ -38,12 +37,9 @@
   - フルスタックエンジニア
   - フロントも含めて(できれば新規の)開発に関われる案件を探しています
   - できればTypescript(Javascript)が使いたいです
-
-## スキルシート
-
-`※要請いただいた方に直接お渡ししています(2022年3月現在)`
-
-- [Download](https://github.com/Eigo-Mt-Fuji/efg-confidential/blob/main/skillsheet/e-fujikawa-engineer.pdf)
+    - 得意(希望)技術はAWS, Typescript/React。それ以外は要相談 
+        - つぎにPHP Laravel, Pythonが候補
+        - C# / Javaは過去の案件で経験がありますが、基本的にお引き受けしない
 
 ## 経歴(時系列チャート)
 
@@ -51,15 +47,12 @@
 
 <img width="1333" alt="スクリーンショット 2022-03-15 16 34 55" src="https://user-images.githubusercontent.com/14959592/158328690-b936ab9c-4b3e-40a7-ac7b-f50d5a61cd15.png">
 
-## どのようなポジションを目指すかの検討
 
-- フルスタックエンジニア。
-    - 得意(希望)技術はAWS, Typescript/React。それ以外は要相談 
-        - つぎにPHP Laravel, Pythonが候補
-        - C# / Javaは過去の案件で経験がありますが、基本的にお引き受けしない
-- 続きはこちら
-    - `※要請いただいた方に直接お伝えしています(2022年3月現在)`
-    - https://github.com/Eigo-Mt-Fuji/efg-confidential/issues/7
+## スキルシート
+
+`※要請いただいた方に直接お渡ししています(2022年3月現在)`
+
+- [Download](https://github.com/Eigo-Mt-Fuji/efg-confidential/blob/main/skillsheet/e-fujikawa-engineer.pdf)
 
 ## おまけ
 
