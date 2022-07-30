@@ -20,8 +20,8 @@
   - 東京でIT系企業に就職。
   - 社会人歴、IT系 `実務経験` ともに今年で `12年目` です
 - 最近やっていた開発(案件)は?
-　-　新規決済サービス立ち上げ支援(要件定義)
-  　- [pdf](./ichimai-202206.pdf?raw=true)
+  -　新規決済サービス立ち上げ支援(要件定義)
+    - [pdf](./ichimai-202206.pdf?raw=true)
   - LINEのAPIを使ったサービス・システム開発です
     - Backend: PHP Laravel7, 8
     - Frontend: React
@@ -82,10 +82,12 @@
 
 ## おまけ
 
+- 2022年の夏休みにイーサリアムとブロックチェーンについて学び直しました。
+  - [note - イーサリアムを学ぶノート](https://note.com/efujikawa/m/m47203006ff7d)
 - 大好き?な歴史上の人物2名について、noteの記事をあげておきました。
-- こういう人物に興味を持つタイプです。
-  - [note - 家康について理解したい ｜ いんぐー](https://note.com/efujikawa/n/ned0d25556ef6?magazine_key=mc78cb16e633c)
-  - [note - 半兵衛(竹中重治)について理解したい ｜ いんぐー](https://note.com/efujikawa/n/ne320a0e67e90?magazine_key=mc78cb16e633c)
+  - こういう人物に興味を持つタイプです。
+    - [note - 家康について理解したい ｜ いんぐー](https://note.com/efujikawa/n/ned0d25556ef6?magazine_key=mc78cb16e633c)
+    - [note - 半兵衛(竹中重治)について理解したい ｜ いんぐー](https://note.com/efujikawa/n/ne320a0e67e90?magazine_key=mc78cb16e633c)
 
 - ドラクエが大好きなので、ドラクエ x エンジニアにまつわるスライドを不定期であげていきます
 - 時間と心にゆとりがある時にお読みくださいm(_ _)m
