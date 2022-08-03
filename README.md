@@ -42,8 +42,9 @@
         - C# / Javaは過去の案件で経験がありますが、基本的にお引き受けしない
   - しょうじき、完全に実務未経験ながら、Rustをやりたい。
     - コミットメントの方向性を考えながら、全力で勉強しているステータス。「エンジニアとして」未来に向かっていく仕事がしたい。
-      - [Rust学習ノート](https://note.com/efujikawa/m/m0a8f4652a667)
-      - [自由にブロックチェーンアプリ研究するマガジン](https://note.com/efujikawa/m/m970875a701ac)
+      - [note - Rust学習ノート](https://note.com/efujikawa/m/m0a8f4652a667)
+      - [note - イーサリアムを学ぶノート](https://note.com/efujikawa/m/m47203006ff7d)
+      - [note - 自由にブロックチェーンアプリ研究するマガジン](https://note.com/efujikawa/m/m970875a701ac)
 
 ## 経歴(時系列チャート)
 
