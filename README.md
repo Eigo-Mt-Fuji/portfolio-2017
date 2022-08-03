@@ -40,13 +40,16 @@
     - 得意(希望)技術はAWS, Typescript/React。それ以外は要相談 
         - つぎにPHP Laravel, Pythonが候補
         - C# / Javaは過去の案件で経験がありますが、基本的にお引き受けしない
+  - しょうじき、完全に実務未経験ながら、Rustをやりたい。
+    - コミットメントの方向性を考えながら、全力で勉強しているステータス。「エンジニアとして」未来に向かっていく仕事がしたい。
+      - [Rust学習ノート](https://note.com/efujikawa/m/m0a8f4652a667)
+      - [自由にブロックチェーンアプリ研究するマガジン](https://note.com/efujikawa/m/m970875a701ac)
 
 ## 経歴(時系列チャート)
 
 - 簡単にまとめました。経歴書の補足情報として合わせて参照くださいませ
 
 <img width="1333" alt="スクリーンショット 2022-03-15 16 34 55" src="https://user-images.githubusercontent.com/14959592/158328690-b936ab9c-4b3e-40a7-ac7b-f50d5a61cd15.png">
-
 
 ## スキルシート
 
