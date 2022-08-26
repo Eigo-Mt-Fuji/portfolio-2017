@@ -36,17 +36,16 @@
        - Terraform
 
 - 次の案件でやりたいこと(現在やりたいこと)
-  - フルスタックエンジニア
-  - フロントも含めて(できれば新規の)開発に関われる案件を探しています
-  - できればTypescript(Javascript)が使いたいです
-    - 得意(希望)技術はAWS, Typescript/React。それ以外は要相談 
+  - フルスタックエンジニア または フルスタックな経験が活かせるSRE
+  - 希望)技術はAWS, Typescript/React。それ以外は要相談 
         - つぎにPHP Laravel, Pythonが候補
         - C# / Javaは過去の案件で経験がありますが、基本的にお引き受けしない
-  - しょうじき、完全に実務未経験ながら、Rustをやりたい。
-    - コミットメントの方向性を考えながら、全力で勉強しているステータス。「エンジニアとして」未来に向かっていく仕事がしたい。
-      - [note - Rust学習ノート](https://note.com/efujikawa/m/m0a8f4652a667)
-      - [note - イーサリアムを学ぶノート](https://note.com/efujikawa/m/m47203006ff7d)
-      - [note - 自由にブロックチェーンアプリ研究するマガジン](https://note.com/efujikawa/m/m970875a701ac)
+
+- しょうじき、完全に実務未経験ながら、Rustをやりたい。これは個人的に取り組んでいく。
+  - コミットメントの方向性を考えながら、全力で勉強しているステータス。「エンジニアとして」未来に向かっていく仕事がしたい。
+    - [note - Rust学習ノート](https://note.com/efujikawa/m/m0a8f4652a667)
+    - [note - イーサリアムを学ぶノート](https://note.com/efujikawa/m/m47203006ff7d)
+    - [note - 自由にブロックチェーンアプリ研究するマガジン](https://note.com/efujikawa/m/m970875a701ac)
 
 ## 経歴(時系列チャート)
 
